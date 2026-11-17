@@ -45,12 +45,15 @@ I finalment he fet un commit amb un missatge descriptiu que indica que he comple
 ![cap8](<img/Captura de pantalla 2026-11-17 200015.png>)
 
 ## Bloc 3: Gestió de l'historial i canvis locals
-Primer he instalat la extensio de git graph
+En el punt 1 Primer he instalat la extensio de git graph
 
 ![cap9](<img/Captura de pantalla 2026-11-17 200454.png>)
 
 He selecionat el commit inicial per veure com es veu
 
-Canvi temporal per practicar git revert
+En el punt 3, e agagit una linea al final (la que hem deien) i i he fet un commit descriptiu:
+
+![cap10](<img/Captura de pantalla 2026-11-17 201057.png>)
 
 ## Bloc 4: Publicació a GitHub
+He iniciat de nou la sesio de GitHub al VS Code 
