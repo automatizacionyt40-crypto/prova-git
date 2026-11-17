@@ -57,3 +57,4 @@ En el punt 3, e agagit una linea al final (la que hem deien) i i he fet un commi
 
 ## Bloc 4: Publicació a GitHub
 He iniciat de nou la sesio de GitHub al VS Code 
+i he actualitzat i pujat el repositori, aixo es una captura de que es veu en el github (web)
